@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-022",
+  "title": "Day 22: Civil services: role, neutrality and ethics",
+  "day": 22,
+  "subject": "GS II & Governance",
+  "topics": [
+    "Civil services: role, neutrality and ethics"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in civil services: role, neutrality and ethics, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-022-core",
+      "title": "Field notes: Civil services: role, neutrality and ethics",
+      "topic": "Civil services: role, neutrality and ethics",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Constitutional position, impartiality, accountability, reforms and citizen-facing conduct."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in civil services: role, neutrality and ethics, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Civil services: role, neutrality and ethics.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-022-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Civil services: role, neutrality and ethics",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Civil services: role, neutrality and ethics. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Civil services: role, neutrality and ethics, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Political Science / Indian Constitution at Work",
+      "scope": "Relevant chapter for foundational concepts"
+    },
+    {
+      "title": "M. Laxmikanth, Indian Polity",
+      "scope": "Relevant topic; cross-check current constitutional provisions"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS II & Governance",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Civil services: role, neutrality and ethics. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 21,
+  "planDate": "2026-11-09"
+}

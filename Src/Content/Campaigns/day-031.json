@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-031",
+  "title": "Day 31: Mahajanapadas, Buddhism and Jainism",
+  "day": 31,
+  "subject": "History & Culture",
+  "topics": [
+    "Mahajanapadas, Buddhism and Jainism"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in mahajanapadas, buddhism and jainism, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-031-core",
+      "title": "Field notes: Mahajanapadas, Buddhism and Jainism",
+      "topic": "Mahajanapadas, Buddhism and Jainism",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Urbanisation, state formation, teachings, councils, patronage and the social context of heterodox traditions."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in mahajanapadas, buddhism and jainism, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Mahajanapadas, Buddhism and Jainism.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-031-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Mahajanapadas, Buddhism and Jainism",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Mahajanapadas, Buddhism and Jainism. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Mahajanapadas, Buddhism and Jainism, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT History (relevant stage)",
+      "scope": "Relevant chapter and source excerpts"
+    },
+    {
+      "title": "NIOS History / Culture material",
+      "scope": "Use as supplementary explanation; verify factual details"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "History & Culture",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Mahajanapadas, Buddhism and Jainism. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 30,
+  "planDate": "2026-11-18"
+}

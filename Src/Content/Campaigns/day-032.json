@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-032",
+  "title": "Day 32: Fluvial and aeolian landforms",
+  "day": 32,
+  "subject": "Geography",
+  "topics": [
+    "Fluvial and aeolian landforms"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in fluvial and aeolian landforms, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-032-core",
+      "title": "Field notes: Fluvial and aeolian landforms",
+      "topic": "Fluvial and aeolian landforms",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Erosion, transport, deposition, river profiles, dunes, loess and desertification."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in fluvial and aeolian landforms, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Fluvial and aeolian landforms.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-032-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Fluvial and aeolian landforms",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Fluvial and aeolian landforms. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Fluvial and aeolian landforms, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Geography (Classes XI–XII)",
+      "scope": "Relevant physical/human/India chapter"
+    },
+    {
+      "title": "Atlas",
+      "scope": "Complete the day’s location/map drill"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Geography",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Fluvial and aeolian landforms. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 31,
+  "planDate": "2026-11-19"
+}

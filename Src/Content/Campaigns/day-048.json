@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-048",
+  "title": "Day 48: Biodiversity levels and hotspots",
+  "day": 48,
+  "subject": "Environment",
+  "topics": [
+    "Biodiversity levels and hotspots"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in biodiversity levels and hotspots, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-048-core",
+      "title": "Field notes: Biodiversity levels and hotspots",
+      "topic": "Biodiversity levels and hotspots",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Genetic/species/ecosystem diversity, endemism, hotspots and threats."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in biodiversity levels and hotspots, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Biodiversity levels and hotspots.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-048-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Biodiversity levels and hotspots",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Biodiversity levels and hotspots. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Biodiversity levels and hotspots, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Biology / Geography",
+      "scope": "Relevant ecology or environment chapter"
+    },
+    {
+      "title": "MoEFCC / official convention source",
+      "scope": "Verify current policy, protected-area or convention facts"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Environment",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Biodiversity levels and hotspots. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 47,
+  "planDate": "2026-12-05"
+}

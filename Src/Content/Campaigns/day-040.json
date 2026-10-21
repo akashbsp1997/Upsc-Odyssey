@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-040",
+  "title": "Day 40: Essay structure: paragraph architecture",
+  "day": 40,
+  "subject": "Essay",
+  "topics": [
+    "Essay structure: paragraph architecture"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Build a reusable writing skill for essay structure: paragraph architecture and apply it to a timed outline or paragraph."
+  ],
+  "lessons": [
+    {
+      "id": "day-040-core",
+      "title": "Field notes: Essay structure: paragraph architecture",
+      "topic": "Essay structure: paragraph architecture",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "One claim per paragraph, explanation, evidence/example and link to the thesis."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Build a reusable writing skill for essay structure: paragraph architecture and apply it to a timed outline or paragraph."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Essay structure: paragraph architecture.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-040-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Essay structure: paragraph architecture",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Essay structure: paragraph architecture. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Essay structure: paragraph architecture, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Official UPSC Essay question papers",
+      "scope": "Choose a real past theme and practise planning; exact year/question to be checked in official paper"
+    },
+    {
+      "title": "Personal example bank",
+      "scope": "Keep examples accurate, relevant and sourceable"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Essay",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Essay structure: paragraph architecture. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 39,
+  "planDate": "2026-11-27"
+}
