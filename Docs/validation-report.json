@@ -1,0 +1,28 @@
+{
+  "campaignCount": 180,
+  "firstDate": "2026-10-19",
+  "lastDate": "2027-04-16",
+  "uniqueIds": 180,
+  "continuousDays": true,
+  "allHaveSourceReferences": true,
+  "allHavePyqReferenceCaveat": true,
+  "allDurationsWithin480Minutes": true,
+  "testCommand": "npm test",
+  "testStatus": "NOT RUN: Vitest dependencies unavailable; campaign JSON and weekly boss content checks run separately and passed",
+  "buildCommand": "npm run build",
+  "buildStatus": "NOT RUN: full TypeScript/Vite build not verified because dependencies are unavailable; TSX syntax transpile check passed",
+  "remoteGitHubChanged": false,
+  "expeditionMap": {
+    "status": "added to updated local package",
+    "regions": 6,
+    "daysPerRegion": 30,
+    "nodeStates": [
+      "cleared",
+      "unlocked",
+      "locked",
+      "weekly-boss"
+    ],
+    "weeklyBossDays": 25,
+    "typescriptSyntaxCheck": "PASS: zero diagnostics from transpileModule; not a full typecheck"
+  }
+}
