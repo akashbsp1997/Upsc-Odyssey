@@ -1,0 +1,55 @@
+name: UPSC Odyssey Current Affairs
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+    inputs:
+      from:
+        description: 'Start date YYYY-MM-DD; blank uses recent window'
+        required: false
+        type: string
+      to:
+        description: 'End date YYYY-MM-DD; blank uses recent window'
+        required: false
+        type: string
+      max_pages:
+        description: 'Maximum 100-article pages (quota permitting)'
+        required: false
+        default: '3'
+        type: string
+
+permissions:
+  contents: write
+concurrency:
+  group: current-affairs-ingestion
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch and classify
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          CURRENT_AFFAIRS_FROM: ${{ inputs.from }}
+          CURRENT_AFFAIRS_TO: ${{ inputs.to }}
+          CURRENT_AFFAIRS_MAX_PAGES: ${{ inputs.max_pages || '3' }}
+        run: node scripts/current-affairs/fetch-news.mjs
+      - name: Commit updated archive
+        run: |
+          if git diff --quiet -- public/data/current-affairs.json; then
+            echo "Archive unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/current-affairs.json
+          git commit -m "Update current affairs archive"
+          git push origin HEAD:main
