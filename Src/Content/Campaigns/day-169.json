@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-169",
+  "title": "Day 169: Full-cycle revision and test analysis",
+  "day": 169,
+  "subject": "Current Affairs & Revision",
+  "topics": [
+    "Full-cycle revision and test analysis"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in full-cycle revision and test analysis, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-169-core",
+      "title": "Field notes: Full-cycle revision and test analysis",
+      "topic": "Full-cycle revision and test analysis",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Review accuracy, time, weak topics, overdue reviews and set next-week priorities."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in full-cycle revision and test analysis, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Full-cycle revision and test analysis.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-169-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Full-cycle revision and test analysis",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Full-cycle revision and test analysis. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Full-cycle revision and test analysis, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Official UPSC CSE syllabus",
+      "scope": "Map this revision to the exact syllabus heading"
+    },
+    {
+      "title": "Official UPSC previous question papers archive",
+      "scope": "Review the relevant paper; exact question-level mapping is not claimed here"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Current Affairs & Revision",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Full-cycle revision and test analysis. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 168,
+  "planDate": "2027-04-05"
+}

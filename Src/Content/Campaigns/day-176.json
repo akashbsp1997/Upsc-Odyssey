@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-176",
+  "title": "Day 176: India’s neighbourhood policy",
+  "day": 176,
+  "subject": "GS II & Governance",
+  "topics": [
+    "India’s neighbourhood policy"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in india’s neighbourhood policy, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-176-core",
+      "title": "Field notes: India’s neighbourhood policy",
+      "topic": "India’s neighbourhood policy",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Geography, domestic politics, connectivity, security and economic interdependence."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in india’s neighbourhood policy, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain India’s neighbourhood policy.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-176-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "India’s neighbourhood policy",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain India’s neighbourhood policy. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines India’s neighbourhood policy, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Political Science / Indian Constitution at Work",
+      "scope": "Relevant chapter for foundational concepts"
+    },
+    {
+      "title": "M. Laxmikanth, Indian Polity",
+      "scope": "Relevant topic; cross-check current constitutional provisions"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS II & Governance",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: India’s neighbourhood policy. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 175,
+  "planDate": "2027-04-12"
+}

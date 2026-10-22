@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-171",
+  "title": "Day 171: European trading companies and expansion",
+  "day": 171,
+  "subject": "History & Culture",
+  "topics": [
+    "European trading companies and expansion"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in european trading companies and expansion, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-171-core",
+      "title": "Field notes: European trading companies and expansion",
+      "topic": "European trading companies and expansion",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Portuguese, Dutch, English and French competition; commercial interests and changing political strategies."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in european trading companies and expansion, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain European trading companies and expansion.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-171-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "European trading companies and expansion",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain European trading companies and expansion. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines European trading companies and expansion, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT History (relevant stage)",
+      "scope": "Relevant chapter and source excerpts"
+    },
+    {
+      "title": "NIOS History / Culture material",
+      "scope": "Use as supplementary explanation; verify factual details"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "History & Culture",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: European trading companies and expansion. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 170,
+  "planDate": "2027-04-07"
+}

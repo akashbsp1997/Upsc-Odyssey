@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-168",
+  "title": "Day 168: International political economy",
+  "day": 168,
+  "subject": "PSIR Paper II",
+  "topics": [
+    "International political economy"
+  ],
+  "estimatedDurationMinutes": 52,
+  "objectives": [
+    "Define the key concepts in international political economy, compare arguments, and build a thesis-led answer suitable for PSIR optional."
+  ],
+  "lessons": [
+    {
+      "id": "day-168-core",
+      "title": "Field notes: International political economy",
+      "topic": "International political economy",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Trade, finance, development, dependency, global production and economic statecraft."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Define the key concepts in international political economy, compare arguments, and build a thesis-led answer suitable for PSIR optional."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain International political economy.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-168-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "International political economy",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain International political economy. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines International political economy, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    },
+    {
+      "id": "day-168-boss",
+      "explanation": "Use the rubric to assess conceptual accuracy, analytical structure, evidence and conclusion; revise any criterion you could not support from the assigned sources. This generated practice prompt is not an official UPSC question.",
+      "type": "mains",
+      "title": "Boss battle: International political economy",
+      "topic": "International political economy",
+      "durationMinutes": 20,
+      "prompt": "Write a structured 150–250 word answer or concept note on International political economy. Define the key idea, analyse its dimensions, support it with an accurate example, and conclude with an implication or limitation.",
+      "hint": "Spend 2 minutes planning, use clear sub-points, and reserve time to check whether every part of the demand is answered.",
+      "answer": "A strong answer on International political economy is accurate, structured, analytical, supported by a relevant example and directly responsive to the prompt. Use the rubric to self-assess; this generated prompt is practice, not an official PYQ.",
+      "modelAnswer": "Model-answer outline for International political economy: definition/context; 3–4 analytical points; relevant example or evidence; limitation/counterpoint; concise conclusion. Fill the outline from the assigned sources before writing.",
+      "rubric": [
+        {
+          "criterion": "Conceptual accuracy and relevance to demand",
+          "points": 8
+        },
+        {
+          "criterion": "Analysis, structure and balanced reasoning",
+          "points": 8
+        },
+        {
+          "criterion": "Evidence/example and conclusion",
+          "points": 4
+        }
+      ],
+      "points": 30
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Official UPSC PSIR Paper II syllabus",
+      "scope": "Map to comparative politics / IR / Indian foreign policy heading"
+    },
+    {
+      "title": "MEA / UN / official policy documents",
+      "scope": "Use dated official documents for contemporary examples"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "PSIR Paper II",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: International political economy. Exact year/question number is not asserted in this generated campaign."
+    },
+    {
+      "reference": "Weekly retrieval and PYQ synthesis",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "PSIR Paper II",
+      "mappingStatus": "practice workflow",
+      "note": "Select 3–5 verified questions from the official archive and tag them to this topic before treating them as mapped PYQs."
+    }
+  ],
+  "unlockRequiresDay": 167,
+  "planDate": "2027-04-04"
+}
