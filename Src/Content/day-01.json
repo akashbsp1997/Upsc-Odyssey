@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-polity-day-01",
+  "title": "Foundations of the Republic",
+  "day": 1,
+  "subject": "Polity",
+  "topics": ["Constitutional history", "Objectives Resolution", "Preamble", "Constitutional values"],
+  "estimatedDurationMinutes": 82,
+  "objectives": ["Sequence key milestones in the making of the Constitution.", "Explain the Objectives Resolution's relationship to the Preamble.", "Apply constitutional values to a governance scenario."],
+  "lessons": [
+    {
+      "id": "lesson-constituent-assembly",
+      "title": "A Constitution made by its people",
+      "topic": "Constitutional history",
+      "durationMinutes": 12,
+      "sections": [
+        { "heading": "The Constituent Assembly", "body": "The Constituent Assembly first met on 9 December 1946. It worked through committees, debate and drafting. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950." },
+        { "heading": "Why 26 January?", "body": "The date honoured the Purna Swaraj declaration of 26 January 1930. Adoption and commencement are distinct events: the text was adopted in November 1949, while the republic began in January 1950." },
+        { "heading": "The Drafting Committee", "body": "The Drafting Committee, chaired by Dr B. R. Ambedkar, prepared a draft for the Assembly to consider. Constitution-making was a collective process involving the Assembly and its committees." }
+      ],
+      "keyTakeaways": ["First meeting: 9 December 1946.", "Adopted: 26 November 1949; commenced: 26 January 1950.", "The Drafting Committee was chaired by B. R. Ambedkar."]
+    },
+    {
+      "id": "lesson-objectives-resolution",
+      "title": "From political resolve to constitutional purpose",
+      "topic": "Objectives Resolution",
+      "durationMinutes": 10,
+      "sections": [
+        { "heading": "Nehru's resolution", "body": "Jawaharlal Nehru moved the Objectives Resolution on 13 December 1946. The Assembly adopted it on 22 January 1947. It expressed the political ideals that were to guide constitution-making." },
+        { "heading": "A bridge to the Preamble", "body": "The Resolution is a major source of the Preamble's philosophy. The Preamble gives concise expression to constitutional purposes, but the two are not interchangeable documents." }
+      ],
+      "keyTakeaways": ["Moved on 13 December 1946 and adopted on 22 January 1947.", "It informed the philosophy later expressed in the Preamble."]
+    },
+    {
+      "id": "lesson-preamble",
+      "title": "Reading the Preamble as a compass",
+      "topic": "Preamble",
+      "durationMinutes": 10,
+      "sections": [
+        { "heading": "The constitutional promise", "body": "The Preamble identifies India as a sovereign, socialist, secular, democratic republic and commits the Constitution to justice, liberty, equality and fraternity. It helps readers understand the Constitution's broad purposes." },
+        { "heading": "Interpretive role", "body": "The Preamble is part of the Constitution and can assist constitutional interpretation. It is not an independent source of power and cannot override clear constitutional provisions." }
+      ],
+      "keyTakeaways": ["The Preamble states constitutional ideals and objectives.", "It guides interpretation but does not independently confer power."]
+    }
+  ],
+  "activities": [
+    {
+      "id": "recall-milestones", "type": "recall", "title": "Recall the milestones", "topic": "Constitutional history", "durationMinutes": 4,
+      "prompt": "Without looking back, state the dates on which the Constitution was adopted and came into force.", "hint": "Adoption was in November; commencement was on Republic Day.",
+      "answer": "Adopted on 26 November 1949; came into force on 26 January 1950.", "acceptedAnswers": ["26 november 1949; 26 january 1950", "26 november 1949 and 26 january 1950"],
+      "explanation": "The Assembly adopted the Constitution on 26 November 1949. It came into force on 26 January 1950, the date observed as Republic Day.", "points": 12
+    },
+    {
+      "id": "mcq-resolution", "type": "mcq", "title": "The guiding resolution", "topic": "Objectives Resolution", "durationMinutes": 3,
+      "prompt": "Who moved the Objectives Resolution in the Constituent Assembly?", "hint": "He later became India's first Prime Minister.",
+      "options": [{ "id": "nehru", "text": "Jawaharlal Nehru" }, { "id": "ambedkar", "text": "B. R. Ambedkar" }, { "id": "patel", "text": "Vallabhbhai Patel" }, { "id": "rajendra", "text": "Rajendra Prasad" }],
+      "answer": "nehru", "explanation": "Jawaharlal Nehru moved it on 13 December 1946; the Assembly adopted it on 22 January 1947.", "points": 10
+    },
+    {
+      "id": "multi-preamble", "type": "multi-statement", "title": "Preamble: fact or inference?", "topic": "Preamble", "durationMinutes": 4,
+      "prompt": "Which statement best describes the Preamble's legal role?", "hint": "Look for the distinction between interpretation and independent power.",
+      "statements": ["It helps illuminate constitutional objectives.", "It independently grants legislative power.", "It can assist interpretation of ambiguous provisions."],
+      "options": [{ "id": "one-three", "text": "Statements 1 and 3 only" }, { "id": "all", "text": "All three statements" }, { "id": "two-only", "text": "Statement 2 only" }, { "id": "one-only", "text": "Statement 1 only" }],
+      "answer": "one-three", "explanation": "The Preamble guides interpretation but is not an independent source of governmental power.", "points": 14
+    },
+    {
+      "id": "assertion-preamble", "type": "assertion-reason", "title": "Assertion and reason", "topic": "Preamble", "durationMinutes": 4,
+      "prompt": "Assertion: The Preamble can help courts interpret constitutional provisions. Reason: It expresses the broad objectives and values of the Constitution.", "hint": "Test each statement, then test whether the reason explains the assertion.",
+      "options": [{ "id": "both-linked", "text": "Both are true, and the reason explains the assertion" }, { "id": "both-unlinked", "text": "Both are true, but the reason does not explain the assertion" }, { "id": "assertion-only", "text": "Assertion is true, reason is false" }, { "id": "reason-only", "text": "Assertion is false, reason is true" }],
+      "answer": "both-linked", "explanation": "The Preamble states the constitutional purposes that help orient interpretation, so the reason supports the assertion.", "points": 14
+    },
+    {
+      "id": "compare-adoption-commencement", "type": "comparison", "title": "Adoption vs commencement", "topic": "Constitutional history", "durationMinutes": 5,
+      "prompt": "In two concise points, distinguish adoption of the Constitution from its commencement.", "hint": "Give the date for each and explain what changed on each date.",
+      "answer": "Adopted on 26 November 1949; came into force on 26 January 1950, when India became a republic under it.",
+      "modelAnswer": "Adoption (26 November 1949) was the Assembly's approval of the text. Commencement (26 January 1950) brought the Constitution into force and marked the beginning of the republic.",
+      "rubric": [{ "criterion": "Correct adoption date and meaning", "points": 5 }, { "criterion": "Correct commencement date and meaning", "points": 5 }],
+      "explanation": "Keeping the two dates separate prevents a common factual error in polity questions.", "points": 10
+    },
+    {
+      "id": "case-constitutional-values", "type": "case-based", "title": "Values in administration", "topic": "Constitutional values", "durationMinutes": 7,
+      "caseStudy": "A district office introduces an online-only application process. Residents in remote areas with poor connectivity cannot access the service. The administration has budget for a limited number of assisted service points.",
+      "prompt": "Identify the constitutional values at stake and recommend one practical, inclusive response.", "hint": "Consider equality of access, dignity, and a remedy that keeps the service usable.",
+      "answer": "Recognize equality and dignity concerns; add assisted access points, maintain an offline route, and review access data.",
+      "modelAnswer": "The process raises equality and dignity concerns because a formally uniform digital channel excludes residents facing connectivity barriers. The district should establish assisted service points and retain an offline route, prioritizing underserved areas and reviewing uptake to improve access.",
+      "rubric": [{ "criterion": "Identifies a relevant constitutional value", "points": 5 }, { "criterion": "Gives a feasible inclusive measure", "points": 5 }, { "criterion": "Explains how the measure addresses exclusion", "points": 5 }],
+      "explanation": "Good application answers connect a constitutional value to a concrete administrative remedy and show why it reduces exclusion.", "points": 15
+    },
+    {
+      "id": "mains-preamble", "type": "mains", "title": "Mains practice: constitutional values", "topic": "Preamble", "durationMinutes": 12,
+      "prompt": "The Preamble is both a statement of constitutional philosophy and an aid to interpretation. Discuss in about 150 words.", "hint": "Define its purpose, explain its interpretive role, and state one legal limit.",
+      "answer": "A strong answer distinguishes constitutional philosophy from enforceable powers, explains interpretive use, and notes that the Preamble cannot override explicit provisions.",
+      "modelAnswer": "The Preamble expresses the Constitution's foundational commitments, including justice, liberty, equality and fraternity. It offers a concise account of the objectives that animate the constitutional scheme. Courts may use it as an interpretive aid, particularly where a provision admits more than one reading, because it helps identify the direction of the constitutional design. Its role nevertheless has limits: it is not an independent source of governmental power or a substitute for operative provisions, and it cannot override clear constitutional text. The Preamble is therefore best understood as a compass for reading the Constitution within, rather than apart from, its legal structure.",
+      "rubric": [{ "criterion": "Explains the Preamble's values", "points": 5 }, { "criterion": "Explains its interpretive role", "points": 5 }, { "criterion": "States a relevant legal limitation", "points": 5 }, { "criterion": "Organized, concise argument", "points": 5 }],
+      "explanation": "Use the rubric to self-assess after writing. The model answer is a guide, not the only valid formulation.", "points": 20
+    },
+    {
+      "id": "revision-objectives", "type": "revision", "title": "Quick review: Objectives Resolution", "topic": "Objectives Resolution", "durationMinutes": 3,
+      "prompt": "Who moved the Objectives Resolution, and on what date was it adopted?", "hint": "The mover became the first Prime Minister; adoption was in January 1947.",
+      "answer": "Jawaharlal Nehru moved it; it was adopted on 22 January 1947.", "explanation": "It was moved on 13 December 1946 and adopted on 22 January 1947.", "points": 10
+    },
+    {
+      "id": "boss-republic", "type": "boss", "title": "Boss encounter: the republic's foundations", "topic": "Constitutional history", "durationMinutes": 8,
+      "prompt": "A learner claims the Constitution was adopted on Republic Day and that the Preamble itself grants Parliament power to act. Identify both errors and correct them.", "hint": "Separate adoption from commencement, then distinguish an interpretive guide from a source of power.",
+      "options": [{ "id": "correct", "text": "Adopted 26 Nov 1949; commenced 26 Jan 1950. Preamble guides interpretation, not an independent source of power." }, { "id": "adoption-only", "text": "Adopted 26 Jan 1950; the Preamble is a source of power." }, { "id": "dates-reversed", "text": "Adopted 26 Jan 1949; commenced 26 Nov 1950." }, { "id": "no-correction", "text": "Both claims are correct." }],
+      "answer": "correct", "explanation": "A strong response catches both the date confusion and the Preamble's limited legal function.", "points": 25
+    }
+  ]
+}
