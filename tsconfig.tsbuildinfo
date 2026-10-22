@@ -1,1 +1,1 @@
-{"root":["./src/main.tsx","./src/content/importer.ts","./src/content/schema.ts","./src/db/backup.ts","./src/db/database.ts","./src/game/campaignBuilder.ts","./src/game/game.test.ts","./src/game/ids.ts","./src/game/revision.ts","./src/game/scoring.ts","./src/ui/App.tsx","./vite.config.ts"],"version":"5.6.3"}
+{"root":["./vite.config.ts"],"version":"5.6.3"}
