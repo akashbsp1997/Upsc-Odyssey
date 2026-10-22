@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-079",
+  "title": "Day 79: Organised crime, trafficking and money laundering",
+  "day": 79,
+  "subject": "GS III & Security",
+  "topics": [
+    "Organised crime, trafficking and money laundering"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in organised crime, trafficking and money laundering, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-079-core",
+      "title": "Field notes: Organised crime, trafficking and money laundering",
+      "topic": "Organised crime, trafficking and money laundering",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Networks, illicit finance, investigative coordination and victim-centred responses."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in organised crime, trafficking and money laundering, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Organised crime, trafficking and money laundering.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-079-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Organised crime, trafficking and money laundering",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Organised crime, trafficking and money laundering. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Organised crime, trafficking and money laundering, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Relevant NCERT / standard GS reference",
+      "scope": "Foundational concept and definitions"
+    },
+    {
+      "title": "NDMA / MHA / relevant official source",
+      "scope": "Check official mandate or guideline where relevant"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS III & Security",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Organised crime, trafficking and money laundering. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 78,
+  "planDate": "2027-01-05"
+}

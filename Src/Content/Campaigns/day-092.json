@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-092",
+  "title": "Day 92: Education policy and learning outcomes",
+  "day": 92,
+  "subject": "GS II & Governance",
+  "topics": [
+    "Education policy and learning outcomes"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in education policy and learning outcomes, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-092-core",
+      "title": "Field notes: Education policy and learning outcomes",
+      "topic": "Education policy and learning outcomes",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "School/higher education, foundational learning, equity, teacher support and governance."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in education policy and learning outcomes, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Education policy and learning outcomes.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-092-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Education policy and learning outcomes",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Education policy and learning outcomes. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Education policy and learning outcomes, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Political Science / Indian Constitution at Work",
+      "scope": "Relevant chapter for foundational concepts"
+    },
+    {
+      "title": "M. Laxmikanth, Indian Polity",
+      "scope": "Relevant topic; cross-check current constitutional provisions"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS II & Governance",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Education policy and learning outcomes. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 91,
+  "planDate": "2027-01-18"
+}

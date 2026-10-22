@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-090",
+  "title": "Day 90: Pollution: air and water",
+  "day": 90,
+  "subject": "Environment",
+  "topics": [
+    "Pollution: air and water"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in pollution: air and water, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-090-core",
+      "title": "Field notes: Pollution: air and water",
+      "topic": "Pollution: air and water",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Sources, pollutants, health/ecological effects, monitoring and regulatory responses."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in pollution: air and water, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Pollution: air and water.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-090-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Pollution: air and water",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Pollution: air and water. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Pollution: air and water, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Biology / Geography",
+      "scope": "Relevant ecology or environment chapter"
+    },
+    {
+      "title": "MoEFCC / official convention source",
+      "scope": "Verify current policy, protected-area or convention facts"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Environment",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Pollution: air and water. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 89,
+  "planDate": "2027-01-16"
+}

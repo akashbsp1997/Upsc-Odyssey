@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-087",
+  "title": "Day 87: Early medieval regional kingdoms",
+  "day": 87,
+  "subject": "History & Culture",
+  "topics": [
+    "Early medieval regional kingdoms"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in early medieval regional kingdoms, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-087-core",
+      "title": "Field notes: Early medieval regional kingdoms",
+      "topic": "Early medieval regional kingdoms",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Regional state formation, agrarian expansion, temple institutions and varied political formations."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in early medieval regional kingdoms, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Early medieval regional kingdoms.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-087-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Early medieval regional kingdoms",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Early medieval regional kingdoms. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Early medieval regional kingdoms, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT History (relevant stage)",
+      "scope": "Relevant chapter and source excerpts"
+    },
+    {
+      "title": "NIOS History / Culture material",
+      "scope": "Use as supplementary explanation; verify factual details"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "History & Culture",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Early medieval regional kingdoms. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 86,
+  "planDate": "2027-01-13"
+}

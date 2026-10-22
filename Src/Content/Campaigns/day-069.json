@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-069",
+  "title": "Day 69: Marxism and critical traditions",
+  "day": 69,
+  "subject": "PSIR Paper I",
+  "topics": [
+    "Marxism and critical traditions"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Define the key concepts in marxism and critical traditions, compare arguments, and build a thesis-led answer suitable for PSIR optional."
+  ],
+  "lessons": [
+    {
+      "id": "day-069-core",
+      "title": "Field notes: Marxism and critical traditions",
+      "topic": "Marxism and critical traditions",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Historical materialism, class, ideology, state, alienation and later revisions."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Define the key concepts in marxism and critical traditions, compare arguments, and build a thesis-led answer suitable for PSIR optional."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Marxism and critical traditions.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-069-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Marxism and critical traditions",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Marxism and critical traditions. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Marxism and critical traditions, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Official UPSC PSIR Paper I syllabus",
+      "scope": "Map to the relevant theory / thinker heading"
+    },
+    {
+      "title": "Standard political theory / thought text",
+      "scope": "Read the matching section and compare interpretations"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "PSIR Paper I",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Marxism and critical traditions. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 68,
+  "planDate": "2026-12-26"
+}

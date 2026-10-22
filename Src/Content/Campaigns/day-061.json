@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-061",
+  "title": "Day 61: Fiscal policy, budget and public debt",
+  "day": 61,
+  "subject": "Economy",
+  "topics": [
+    "Fiscal policy, budget and public debt"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in fiscal policy, budget and public debt, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-061-core",
+      "title": "Field notes: Fiscal policy, budget and public debt",
+      "topic": "Fiscal policy, budget and public debt",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Receipts/expenditure, fiscal/revenue deficits, borrowing, subsidies, FRBM and fiscal federalism."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in fiscal policy, budget and public debt, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Fiscal policy, budget and public debt.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-061-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Fiscal policy, budget and public debt",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Fiscal policy, budget and public debt. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Fiscal policy, budget and public debt, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Economics (relevant level)",
+      "scope": "Relevant concepts and definitions"
+    },
+    {
+      "title": "Union Budget / Economic Survey",
+      "scope": "Use the latest available official document for current data"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Economy",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Fiscal policy, budget and public debt. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 60,
+  "planDate": "2026-12-18"
+}

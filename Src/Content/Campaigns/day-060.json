@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-060",
+  "title": "Day 60: Pressure belts, winds and jet streams",
+  "day": 60,
+  "subject": "Geography",
+  "topics": [
+    "Pressure belts, winds and jet streams"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in pressure belts, winds and jet streams, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-060-core",
+      "title": "Field notes: Pressure belts, winds and jet streams",
+      "topic": "Pressure belts, winds and jet streams",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Global circulation, Coriolis effect, planetary winds, jet streams and seasonal shifts."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in pressure belts, winds and jet streams, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Pressure belts, winds and jet streams.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-060-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Pressure belts, winds and jet streams",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Pressure belts, winds and jet streams. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Pressure belts, winds and jet streams, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Geography (Classes XI–XII)",
+      "scope": "Relevant physical/human/India chapter"
+    },
+    {
+      "title": "Atlas",
+      "scope": "Complete the day’s location/map drill"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Geography",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Pressure belts, winds and jet streams. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 59,
+  "planDate": "2026-12-17"
+}

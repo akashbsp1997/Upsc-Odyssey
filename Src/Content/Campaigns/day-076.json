@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-076",
+  "title": "Day 76: Species conservation and flagship taxa",
+  "day": 76,
+  "subject": "Environment",
+  "topics": [
+    "Species conservation and flagship taxa"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in species conservation and flagship taxa, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-076-core",
+      "title": "Field notes: Species conservation and flagship taxa",
+      "topic": "Species conservation and flagship taxa",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Threat categories, recovery programmes, habitat needs and limits of single-species approaches."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in species conservation and flagship taxa, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Species conservation and flagship taxa.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-076-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Species conservation and flagship taxa",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Species conservation and flagship taxa. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Species conservation and flagship taxa, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Biology / Geography",
+      "scope": "Relevant ecology or environment chapter"
+    },
+    {
+      "title": "MoEFCC / official convention source",
+      "scope": "Verify current policy, protected-area or convention facts"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Environment",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Species conservation and flagship taxa. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 75,
+  "planDate": "2027-01-02"
+}

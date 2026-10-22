@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-089",
+  "title": "Day 89: External sector and balance of payments",
+  "day": 89,
+  "subject": "Economy",
+  "topics": [
+    "External sector and balance of payments"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in external sector and balance of payments, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-089-core",
+      "title": "Field notes: External sector and balance of payments",
+      "topic": "External sector and balance of payments",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Current/capital accounts, exchange rates, reserves, trade balance and external vulnerability."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in external sector and balance of payments, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain External sector and balance of payments.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-089-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "External sector and balance of payments",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain External sector and balance of payments. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines External sector and balance of payments, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Economics (relevant level)",
+      "scope": "Relevant concepts and definitions"
+    },
+    {
+      "title": "Union Budget / Economic Survey",
+      "scope": "Use the latest available official document for current data"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Economy",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: External sector and balance of payments. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 88,
+  "planDate": "2027-01-15"
+}
