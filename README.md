@@ -91,4 +91,42 @@ The project is intended to live in the GitHub repository `upsc-odyssey`. Connect
 - Service-worker installation and offline behavior require HTTPS in deployed environments and may differ across browsers, especially iOS Safari.
 - Mains and other rubric-based written answers are self-assessed; the app does not use AI or claim automated essay grading.
 - Session estimates use authored activity durations. Idle time is not added while the browser tab is hidden, and pausing suspends the session timer.
-- Educational packages are user-provided. Review factual accuracy and exam relevance before importing.
+- Educational packages are user-provided.# UPSC Odyssey Current Affairs module
+
+This starter module adds a NewsAPI.org ingestion pipeline, explainable UPSC classification, an archive UI panel, date filters, and scheduled/on-demand GitHub Actions ingestion.
+
+## Provider limits
+Your NewsAPI plan determines which dates, volume and use cases are permitted. The pipeline can only fetch what the API returns. Use smaller monthly windows for backfill; a single year may exceed provider result caps. Check current provider terms before publishing/redistributing data. The module stores metadata, links and short descriptions, not full articles.
+
+## Install
+Copy the files in this module into the same paths at the root of `akashbsp1997/Upsc-Odyssey`. If any path already exists, compare before overwriting.
+
+## Add the secret
+Go to `https://github.com/akashbsp1997/Upsc-Odyssey/settings/secrets/actions`, create repository secret `NEWS_API_KEY`, and paste your NewsAPI key. Never put the key in frontend code or commit it.
+
+## Integrate into `src/ui/App.tsx`
+1. Add import: `import CurrentAffairsPanel from '../current-affairs/CurrentAffairsPanel';`
+2. Add `Newspaper` to the existing `lucide-react` import.
+3. Extend the `Page` type to include `'current-affairs'`.
+4. Add `{ id: 'current-affairs', label: 'Current Affairs', icon: Newspaper }` to the existing `navigation` array. This array already drives both the desktop rail and mobile navigation, so do not add duplicate buttons.
+5. Add `'current-affairs': 'Current affairs'` to the `title` record.
+6. Inside the main `.page-content` JSX, add the render branch alongside the other page branches: `{page === 'current-affairs' && <CurrentAffairsPanel />}`.
+7. In `src/ui/styles.css`, change `.mobile-nav` from `grid-template-columns: repeat(4,1fr)` to `repeat(5,1fr)` so the added navigation item fits.
+8. The panel imports its own CSS; no extra stylesheet import is needed.
+
+## Test
+```bash
+node --test scripts/current-affairs/classify.test.mjs
+npm test
+npm run build
+git diff --check
+```
+
+## Configure and run
+After adding files and pushing them:
+- Open GitHub Actions → **UPSC Odyssey Current Affairs** → **Run workflow**.
+- Enter optional `from` and `to` dates in `YYYY-MM-DD` format. Leave blank for the recent window.
+- The daily scheduled job runs at 01:30 UTC (07:00 IST), though GitHub may delay scheduled jobs.
+- Workflow updates `public/data/current-affairs.json` and commits it to `main` when changed.
+
+For a historical backfill, run smaller windows (for example, month by month) and watch API quota. The first classification is deterministic and approximate; articles marked `needs-review` can be shown using the panel's checkbox. Static topics are a starter index, not a fully researched static-affairs corpus. Review factual accuracy and exam relevance before importing.
