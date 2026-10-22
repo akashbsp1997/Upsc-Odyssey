@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "description": "Starter index only, not a complete static-current-affairs archive. Expand using the official UPSC syllabus and verified authoritative sources.",
+  "topics": [
+    {
+      "id": "constitution",
+      "title": "Constitutional foundations",
+      "tags": [
+        "Polity",
+        "GS-II",
+        "Prelims"
+      ],
+      "note": "Attach verified notes and official Constitution/legislation references."
+    },
+    {
+      "id": "international-institutions",
+      "title": "International institutions and forums",
+      "tags": [
+        "IR",
+        "GS-II",
+        "PSIR-II"
+      ],
+      "note": "Track mandate, membership and reforms with official sources."
+    },
+    {
+      "id": "climate-frameworks",
+      "title": "Climate and biodiversity frameworks",
+      "tags": [
+        "Environment",
+        "GS-III",
+        "Prelims"
+      ],
+      "note": "Record treaty objectives and commitments with dated sources."
+    },
+    {
+      "id": "economy-indicators",
+      "title": "Core Indian economy indicators",
+      "tags": [
+        "Economy",
+        "GS-III",
+        "Prelims"
+      ],
+      "note": "Label observation dates and link official data series."
+    },
+    {
+      "id": "political-theory",
+      "title": "Political theory and ideologies",
+      "tags": [
+        "PSIR-I"
+      ],
+      "note": "Map concepts and thinkers to the official optional syllabus."
+    },
+    {
+      "id": "indian-political-thought",
+      "title": "Indian political thought",
+      "tags": [
+        "PSIR-I"
+      ],
+      "note": "Build thinker-wise notes with primary or authoritative references."
+    },
+    {
+      "id": "ir-theory",
+      "title": "International relations theory",
+      "tags": [
+        "PSIR-II"
+      ],
+      "note": "Connect current events to relevant IR frameworks."
+    }
+  ]
+}
