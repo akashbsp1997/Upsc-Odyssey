@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "provider": "NewsAPI.org",
+  "requestedRange": null,
+  "fetchedThisRun": 0,
+  "providerReportedTotal": 0,
+  "articles": []
+}
