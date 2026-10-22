@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-136",
+  "title": "Day 136: Case study: political and administrative pressure",
+  "day": 136,
+  "subject": "GS IV Ethics",
+  "topics": [
+    "Case study: political and administrative pressure"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in case study: political and administrative pressure, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-136-core",
+      "title": "Field notes: Case study: political and administrative pressure",
+      "topic": "Case study: political and administrative pressure",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Legality, evidence, documentation, escalation channels and impartial implementation."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in case study: political and administrative pressure, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Case study: political and administrative pressure.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-136-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Case study: political and administrative pressure",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Case study: political and administrative pressure. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Case study: political and administrative pressure, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "UPSC GS IV syllabus and official question papers",
+      "scope": "Map the concept to the syllabus and inspect the question’s demand"
+    },
+    {
+      "title": "Ethics notes / case practice",
+      "scope": "Use for frameworks; write own analysis"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS IV Ethics",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Case study: political and administrative pressure. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 135,
+  "planDate": "2027-03-03"
+}

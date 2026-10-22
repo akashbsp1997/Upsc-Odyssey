@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-118",
+  "title": "Day 118: Climate science and greenhouse gases",
+  "day": 118,
+  "subject": "Environment",
+  "topics": [
+    "Climate science and greenhouse gases"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in climate science and greenhouse gases, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-118-core",
+      "title": "Field notes: Climate science and greenhouse gases",
+      "topic": "Climate science and greenhouse gases",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Radiative forcing, carbon cycle, feedbacks, attribution and climate projections."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in climate science and greenhouse gases, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Climate science and greenhouse gases.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-118-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Climate science and greenhouse gases",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Climate science and greenhouse gases. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Climate science and greenhouse gases, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Biology / Geography",
+      "scope": "Relevant ecology or environment chapter"
+    },
+    {
+      "title": "MoEFCC / official convention source",
+      "scope": "Verify current policy, protected-area or convention facts"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Environment",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Climate science and greenhouse gases. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 117,
+  "planDate": "2027-02-13"
+}

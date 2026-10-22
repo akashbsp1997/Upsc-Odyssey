@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-121",
+  "title": "Day 121: Land reforms and agrarian institutions",
+  "day": 121,
+  "subject": "GS III & Security",
+  "topics": [
+    "Land reforms and agrarian institutions"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Explain the core concepts in land reforms and agrarian institutions, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-121-core",
+      "title": "Field notes: Land reforms and agrarian institutions",
+      "topic": "Land reforms and agrarian institutions",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Tenancy, land records, consolidation, women’s land rights and implementation variation."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in land reforms and agrarian institutions, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Land reforms and agrarian institutions.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-121-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Land reforms and agrarian institutions",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Land reforms and agrarian institutions. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Land reforms and agrarian institutions, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Relevant NCERT / standard GS reference",
+      "scope": "Foundational concept and definitions"
+    },
+    {
+      "title": "NDMA / MHA / relevant official source",
+      "scope": "Check official mandate or guideline where relevant"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "GS III & Security",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Land reforms and agrarian institutions. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 120,
+  "planDate": "2027-02-16"
+}

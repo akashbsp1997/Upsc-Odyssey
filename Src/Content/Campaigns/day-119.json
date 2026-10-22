@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-119",
+  "title": "Day 119: Materials, nanotechnology and semiconductors",
+  "day": 119,
+  "subject": "Science & Technology",
+  "topics": [
+    "Materials, nanotechnology and semiconductors"
+  ],
+  "estimatedDurationMinutes": 52,
+  "objectives": [
+    "Explain the core concepts in materials, nanotechnology and semiconductors, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+  ],
+  "lessons": [
+    {
+      "id": "day-119-core",
+      "title": "Field notes: Materials, nanotechnology and semiconductors",
+      "topic": "Materials, nanotechnology and semiconductors",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Material properties, chip supply chains, nanomaterials and application limits."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Explain the core concepts in materials, nanotechnology and semiconductors, connect them to the relevant UPSC syllabus, and practise retrieval without notes."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Materials, nanotechnology and semiconductors.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-119-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Materials, nanotechnology and semiconductors",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Materials, nanotechnology and semiconductors. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Materials, nanotechnology and semiconductors, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    },
+    {
+      "id": "day-119-boss",
+      "explanation": "Use the rubric to assess conceptual accuracy, analytical structure, evidence and conclusion; revise any criterion you could not support from the assigned sources. This generated practice prompt is not an official UPSC question.",
+      "type": "mains",
+      "title": "Boss battle: Materials, nanotechnology and semiconductors",
+      "topic": "Materials, nanotechnology and semiconductors",
+      "durationMinutes": 20,
+      "prompt": "Write a structured 150–250 word answer or concept note on Materials, nanotechnology and semiconductors. Define the key idea, analyse its dimensions, support it with an accurate example, and conclude with an implication or limitation.",
+      "hint": "Spend 2 minutes planning, use clear sub-points, and reserve time to check whether every part of the demand is answered.",
+      "answer": "A strong answer on Materials, nanotechnology and semiconductors is accurate, structured, analytical, supported by a relevant example and directly responsive to the prompt. Use the rubric to self-assess; this generated prompt is practice, not an official PYQ.",
+      "modelAnswer": "Model-answer outline for Materials, nanotechnology and semiconductors: definition/context; 3–4 analytical points; relevant example or evidence; limitation/counterpoint; concise conclusion. Fill the outline from the assigned sources before writing.",
+      "rubric": [
+        {
+          "criterion": "Conceptual accuracy and relevance to demand",
+          "points": 8
+        },
+        {
+          "criterion": "Analysis, structure and balanced reasoning",
+          "points": 8
+        },
+        {
+          "criterion": "Evidence/example and conclusion",
+          "points": 4
+        }
+      ],
+      "points": 30
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "NCERT Science (relevant concept)",
+      "scope": "Foundation reading"
+    },
+    {
+      "title": "PIB / relevant official agency",
+      "scope": "Use dated official release for current developments; distinguish announcement from deployment"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Science & Technology",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Materials, nanotechnology and semiconductors. Exact year/question number is not asserted in this generated campaign."
+    },
+    {
+      "reference": "Weekly retrieval and PYQ synthesis",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Science & Technology",
+      "mappingStatus": "practice workflow",
+      "note": "Select 3–5 verified questions from the official archive and tag them to this topic before treating them as mapped PYQs."
+    }
+  ],
+  "unlockRequiresDay": 118,
+  "planDate": "2027-02-14"
+}

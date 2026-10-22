@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "upsc-odyssey-day-124",
+  "title": "Day 124: Examples, evidence and contemporary illustrations",
+  "day": 124,
+  "subject": "Essay",
+  "topics": [
+    "Examples, evidence and contemporary illustrations"
+  ],
+  "estimatedDurationMinutes": 32,
+  "objectives": [
+    "Build a reusable writing skill for examples, evidence and contemporary illustrations and apply it to a timed outline or paragraph."
+  ],
+  "lessons": [
+    {
+      "id": "day-124-core",
+      "title": "Field notes: Examples, evidence and contemporary illustrations",
+      "topic": "Examples, evidence and contemporary illustrations",
+      "durationMinutes": 22,
+      "sections": [
+        {
+          "heading": "Core learning map",
+          "body": "Use relevant, accurate examples; avoid unsupported statistics and name-dropping."
+        },
+        {
+          "heading": "How to study this topic",
+          "body": "Read the assigned source section, write a 5–7 point closed-book summary, then explain one cause–effect relationship or compare two relevant concepts. Build a reusable writing skill for examples, evidence and contemporary illustrations and apply it to a timed outline or paragraph."
+        },
+        {
+          "heading": "Exam application",
+          "body": "Connect the concept to the official syllabus wording. Attempt a verified past question only after locating it in the official paper; record year, paper, question number and the exact demand in your error log."
+        }
+      ],
+      "keyTakeaways": [
+        "Be able to define and explain Examples, evidence and contemporary illustrations.",
+        "Connect the topic to one adjacent syllabus heading.",
+        "Record one confusion and resolve it from the source."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "day-124-recall",
+      "type": "recall",
+      "title": "Recall & explain",
+      "topic": "Examples, evidence and contemporary illustrations",
+      "durationMinutes": 10,
+      "prompt": "Without notes, explain Examples, evidence and contemporary illustrations. Include the central concepts, one distinction or causal link, and one UPSC-relevant application.",
+      "hint": "Use a definition, 3–5 key points, one example, and a concise concluding link to the syllabus.",
+      "answer": "A satisfactory response defines Examples, evidence and contemporary illustrations, explains its main dimensions, makes at least one accurate distinction or causal link, and connects it to the relevant UPSC syllabus. Compare your response with the assigned source and correct gaps.",
+      "explanation": "Self-check factual accuracy, conceptual clarity, coverage of the question demand and use of a relevant example. This is a retrieval activity, not an official UPSC question.",
+      "points": 15
+    }
+  ],
+  "sourceReferences": [
+    {
+      "title": "Official UPSC Essay question papers",
+      "scope": "Choose a real past theme and practise planning; exact year/question to be checked in official paper"
+    },
+    {
+      "title": "Personal example bank",
+      "scope": "Keep examples accurate, relevant and sourceable"
+    }
+  ],
+  "pyqReferences": [
+    {
+      "reference": "UPSC official Previous Question Papers archive",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "paper": "Essay",
+      "mappingStatus": "topic-level review required",
+      "note": "Search official CSE papers for themes related to: Examples, evidence and contemporary illustrations. Exact year/question number is not asserted in this generated campaign."
+    }
+  ],
+  "unlockRequiresDay": 123,
+  "planDate": "2027-02-19"
+}
