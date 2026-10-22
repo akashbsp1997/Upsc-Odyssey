@@ -20,7 +20,8 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,webmanifest}'],
-        navigateFallbackDenylist: [/^\/api\//],
+        globIgnores: ['generated-content-*', 'study-plan-only.html'],
+        navigateFallbackDenylist: [/^\/api\//, /^\/generated-content-/, /^\/study-plan-only/],
       },
     }),
   ],
